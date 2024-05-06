@@ -45,4 +45,3 @@ const About = () => {
 
 export default App;
 
-// noel
